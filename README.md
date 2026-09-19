@@ -1,4 +1,4 @@
-# • RAM Shortage Crisis Analysis (2024-2028) 
+# • RAM Shortage Crisis Analysis (2024-2028)
 
 ## • Overview
 Analysis of 10,000+ RAM listings to uncover 
